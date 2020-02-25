@@ -338,7 +338,7 @@
           "status": "REDEEMED",
           "validUntil": 1583884797,
           "downloadURL": "https://mariane.com",
-          "product": "PUT THE ID OF A PRODUCT HERE"
+          "product": "7979523d-c1c8-4999-9367-5ffb932fd765"
         },
         {
           "id": "ebefd1eb-4a11-4ae5-9d28-9e7b116f12c4",
@@ -348,7 +348,7 @@
           "status": "VALID",
           "validUntil": 1583884797,
           "downloadURL": "http://samir.net",
-          "product": "PUT THE ID OF A PRODUCT HERE"
+          "product": "7979523d-c1c8-4999-9367-5ffb932fd765"
         },
         {
           "id": "6823d0a1-8119-4922-a234-04f98ad9d44d",
@@ -358,7 +358,7 @@
           "status": "REDEEMED",
           "validUntil": 1583884797,
           "downloadURL": "https://nicolas.org",
-          "product": "PUT THE ID OF A PRODUCT HERE"
+          "product": "7979523d-c1c8-4999-9367-5ffb932fd765"
         },
         {
           "id": "3d676728-3cac-47be-a178-935aa17ba2da",
@@ -368,7 +368,7 @@
           "status": "EXPIRED",
           "validUntil": 1583884797,
           "downloadURL": "https://sid.info",
-          "product": "PUT THE ID OF A PRODUCT HERE"
+          "product": "b9f20ae3-9bb4-41a9-a592-bf00231e3d44"
         },
         {
           "id": "fe3e487f-e94d-4fc0-9d40-68e29c9bee96",
@@ -378,64 +378,7 @@
           "status": "EXPIRED",
           "validUntil": 1583884797,
           "downloadURL": "https://clementina.org",
-          "product": "PUT THE ID OF A PRODUCT HERE"
-        }
-      ]
-    },
-    {
-      "id": "0b4b8ef2-3230-4a54-8abd-a2eca72f5719",
-      "name": "Vernice",
-      "couponsCount": 5,
-      "coupons": [
-        {
-          "id": "784a00c9-cdc5-431f-a5f2-b3928e9b7020",
-          "title": "maxime magni voluptatum",
-          "description": "Id sed voluptas a similique a quia qui.",
-          "price": 4001980,
-          "status": "REDEEMED",
-          "validUntil": 1583884797,
-          "downloadURL": "http://letitia.name",
-          "product": "PUT THE ID OF A PRODUCT HERE"
-        },
-        {
-          "id": "1a375dc7-e411-4439-bc88-297a13067fc9",
-          "title": "et explicabo et",
-          "description": "Nam neque velit cumque ab voluptatem deserunt nesciunt.",
-          "price": 2147485,
-          "status": "EXPIRED",
-          "validUntil": 1583884797,
-          "downloadURL": "http://marilou.name",
-          "product": "PUT THE ID OF A PRODUCT HERE"
-        },
-        {
-          "id": "90949f8c-94a4-45aa-8647-3917a3408efd",
-          "title": "et vel nam",
-          "description": "Molestiae eligendi qui illum.",
-          "price": 3851448,
-          "status": "EXPIRED",
-          "validUntil": 1583884797,
-          "downloadURL": "http://emanuel.com",
-          "product": "PUT THE ID OF A PRODUCT HERE"
-        },
-        {
-          "id": "31688fc9-07f1-4912-b964-90d20ffad608",
-          "title": "aut beatae dicta",
-          "description": "Ut est minima debitis molestias dolores consequatur qui ut.",
-          "price": 1446474,
-          "status": "VALID",
-          "validUntil": 1583884797,
-          "downloadURL": "https://edgardo.info",
-          "product": "PUT THE ID OF A PRODUCT HERE"
-        },
-        {
-          "id": "21407a3e-9232-4f4e-9f73-afc0d598cfe7",
-          "title": "voluptatum adipisci dolorum",
-          "description": "Sunt expedita facilis eos autem fugiat eum.",
-          "price": 847403,
-          "status": "VALID",
-          "validUntil": 1583884797,
-          "downloadURL": "http://darrion.biz",
-          "product": "PUT THE ID OF A PRODUCT HERE"
+          "product": "b9f20ae3-9bb4-41a9-a592-bf00231e3d44"
         }
       ]
     }
