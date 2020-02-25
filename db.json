@@ -1,5 +1,5 @@
 {
-  categories: [
+  "categories": [
       {
         "id": "c0a2f330-62da-4801-8c54-eee38105bf84",
         "name": "Infrastructure",
@@ -141,7 +141,7 @@
     }
   ],
 
-  coupons: [
+  "coupons": [
     {
       "id": "0d5821c6-cf46-4a91-9a24-5f0a36d95bbd",
       "title": "beatae enim ad",
@@ -324,7 +324,7 @@
     }
   ],
 
-  users: [
+  "users": [
     {
       "id": "0e9abb4e-5f74-4f6f-acbb-8b6eb4d42112",
       "name": "Myrl",
