@@ -26,7 +26,7 @@
       }
     ],
     
-    products: [
+    "products": [
     {
       "id": "b9f20ae3-9bb4-41a9-a592-bf00231e3d44",
       "name": "Lead Metrics Representative",
